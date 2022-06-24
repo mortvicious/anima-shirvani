@@ -1,0 +1,124 @@
+{
+    "nav": {
+        "home": "Home",
+        "ensemble": "Ensemble",
+        "projects": "Projects",
+        "media": "Media",
+        "concerts": "Concerts",
+        "contacts":  "Contacts"
+    },
+    "home": {
+        "title": "Anima Shirvani",
+        "quote": "Who knows himself and others, will be recognise: Orient and Occident are not dividable any more."
+    },
+    "ensemble": {
+        "turalIsmayilov" : {
+            "description" : {
+                "p1" : "The Azerbaijani musician TURAL ISMAYILOV, living in Hamburg, received his first music lessons at the age of 6, initially on the violin.",
+                "p2" : "After graduating in trombone in his hometown of Baku, he continued his studies in Münster and later at the Hamburg University of Music and Theatre. During his studies he was a member of the Azerbaijan State Symphony Orchestra and the Hamburg Symphony Orchestra. His passion for early music led him to Bremen, where he completed master studies in baroque trombone and historical performance practice with Wim Becu.",
+                "p3" : "As an early music specialist, Tural Ismayilov regularly performs with ensembles such as Weser Renaissance, Capella Cracoviensis, Lautten Compagney, Capriccio Stravagante at festivals such as Oude Muziek Festival Utrecht, Stockholm Early Music Festival, Bremer Musikfest and others. A highly sought-after chamber music partner, Tural Ismayilov has participated in more than 50 CD and radio productions. Concert tours took him to such metropolises as Moscow, Osaka, Krakow, Valencia, Taipei, Oslo, Amsterdam, Tokio and Venice, among others.",
+                "p4" : "Since 2012, Tural Ismayilov has been a co-founder of the ensemble Thelxinoe and since 2015 he is a permanent member of the ensemble Capella de la Torre (winner of the Echo Klassik 2016, 2017, Opus Klassik 2018)."
+            }
+        },
+        "denizMahirKartal" : {
+            "description" : {
+                "p1" : "Deniz Mahir Kartal was born in Istanbul in 1987. As the multi-instrumentalist he plays Duduk, Kaval and other traditional instruments, as well as Saxophone, Clarinet, Çağlama and Guitar. Making traditional Anatolian music since the age of five, he studied Turkish Folkdance and music at the Conservatory of Istanbul Technical University. Nowadays, he is based in Berlin and works on a wide variety of projects dedicated to diverse musical genres, ranging from traditional to classical, jazz, modern and electro.",
+                "p2" : "His co-operations include Babylon Orchestra, A.G.A. Trio, Cenk Erdoğan, Sarp Maden, Ah! Kosmos, Hakan Vreskala, İpek İpekoglu, Elif, Aynur Doğan, Zigan Aldi, Derya Yıldırım, Ensemble Resonanz, Volkan İncüvez, Anima Shirvani, Olcay Bayır, Taner Akyol and many others. Deniz performs his music all over Europe and Turkey.",
+                "p3" : "He also writes film scores, arranges music and teaches Duduk at the University of Hildesheim. In his solo project KafaNar, he fuses traditional Anatolian music played live on his instruments with electronic beats, loops and vocals, creating a hypnotic danceable sound and a memorable live performance."
+            }
+        },
+        "pedroAlcacerDoria" : {
+            "description" : {
+                "p1" : "The lutenist Pedro Alcacer was born in Mexico City. He started his musical studies at the age of 7 influenced by his father the Catalan guitar player Francesc Alcàcer. At the age of 17 he started his academical studies at the 'Escuela nacional de Música' in Mexico city, and began an intense concert activity always focusing on the repertory for Lute and Vihuela from XV and XVII centuries. In 2006 he moved to Barcelona Spain to start a specialization in early instruments with Xavier Diaz. There he received the professional degree and then continued with Lee Santana and Joachim Held at the 'Hochschule für Künste' in Bremen Germany and got a degree in plucked instruments in 2012. Tooked several master-clases with players like Hopkinson Smith (Barcelona 2006, Lleida 2007) Eugène Ferré (Lyon,2009-2010) Paul O’Dette (Bremen 2008), Ariel Abramovich (Prachasisten 2008) Lynda Sayce (London 2007).",
+                "p2" : "Upon completion of his degree, Pedro moved to Italy where studied with Evangelina Mascardi. He continued his concert activity as a soloist and ensemble musician. He presented a solo 'Luys de Milán' programme at the 'Encuentrro de la sociedad de la Vihuela' in 2008 in Valencia, Spain.",
+                "p3" : "'L`Orfeo de Monteverdi' with 'La furs dels baus' and with the Bremen Baroque Orchestra conducted by Thomas Albert. He has worked at several projects in Germany with conductors as Wim Becu, Klaus Eihhorn, Detelef Bratschke, and Manfred Cordes. He presented Bach's Johannes Passion as soloist with the 'Capella de la ciudad de México' conducted by Horacio Franco in 'Palacio de Bellas Artes' worked as active continuo player at 'orchestra d'Abiategrasso' conducted by Ricardo Doni in Milano Italy, and recently played with 'Coro Cervantes' at Globe Theater and Sant James' Church in London England with Alessandro di Marchi at Torino’s Teatro Regio, with Cantar Lontano dir. Marco Mencoboni, and ensamble Elyma dir. Gabriel Garrido, la Cappella di San Petronio, il Conservatorio di Bologna, il Museo della Musica, Società Bolognese per la Musica Antica, Sezione Aurea, Accademia degli Astrusi, Cantar Lontano, Vox Latina, Accademia Arcadia, and different musicians of the European baroque music scene. He teached Lute in conservatorio Frescobaldi di Ferrara.",
+                "p4" : "Now lives in Berlin and collaborates with the baroque scene in Europe."
+            }
+        },
+        "davidBudai" : {
+            "description" : {
+                "p1" : "Dávid Budai, born in Budapest, began his musical studies on the violin, but subsequently turned his interests to the viola da gamba. During his gamba training at Leipzig, he developed an interest in historically-informed improvisation while taking classes with Martin Erhardt. Since 2012, Dávid has studied at the Hochschule für Künste Bremen with Hille Perl. He performs as a chamber musician and soloist with numerous groups, including Weser Renaissance, the Bremer Barock Consort, Resonantia Leipzig, and the Michaelis Consort.",
+                "p2" : "He also regularly teaches viola da gamba and improvisation."
+            }
+        },
+        "domenMarincic" : {
+            "description" : {
+                "p1" : "Domen Marinčič was born in Slovenia. He studied viola da gamba with Hartwig Groth in Nuremberg and with Philippe Pierlot in Trossingen. He also studied harpsichord with Carsten Lohff and completed postgraduate studies in basso continuo with Alberto Rinaldi. During his studies he was a prize-winner in several competitions and won the grand prize at the 1st International Bach-Abel Competition in Köthen in 1997. He was a member of the Belgian ensemble Ricercar Consort for several years and is a founding member of the Ensemble Phoenix Munich.",
+                "p2" : "He performs at well-known festivals throughout Europe (Bruges, Brussels, Ghent, Namur, Liège, Paris, Saintes, Copenhagen, Vantaa, Innsbruck, Lausanne, Lucerne, St. Gallen, Munich, Schleswig-Holstein, Valencia, Gijón, Pisa, Prague, Brno, Bratislava, Varaždin, Brežice, Maribor). He is co-founder of the Slovenian early music ensemble musica cubicularis and Harmonia Antiqua Labacensis, an international ensemble conducted by Manfredo Kraemer.",
+                "p3" : "Domen Marinčič has participated in numerous CD productions for international labels. From 2005 to 2009 he taught at the Department of Musicology at the University of Ljubljana. He reconstructed missing parts of numerous 17th and 18th century works for performances and musical editions.",
+                "p4" : ""
+            }
+        },
+        "sebastianFlaig" : {
+            "description" : {
+                "p1" : "Sebastian Flaig ,*1983 born in Freiburg, studied  Percussion and JazzDrumset at Mendelssohn Bartholdy Musikhochschule Leipzig.",
+                "p2" : "Misirli Ahmet, the leading pioneer of the darabuka. His musical ear and technical flexibiltiy made him play in many ensembles from Jazz to oriental music, from classical to experimental to old music like Taner Akyol Trio, Maya Youssef, Susan Weinert Global players, Pain Perdu,Lauttencompagney Berlin, Musikwerkstatt Köln, Mysteries of Bulgarian voices feat Lisa Gerard.",
+                "p3" : "He was member of the german national student jazz orchestra(Bujazzo), played several theater shows at Komische Oper Berlin, Stadttheater Freiburg, Bauhaus Dessau etc and played as a soloist with orchestras. He composed music for Ensemble, theater shows and film documentaries and is giving workshops throughout Europe.",
+                "p4" : "",
+                "p5" : ""
+            }
+        }
+    },
+    "concerts": {
+        "dates" : ""
+    },
+    "projects": {
+        "westEasternDivan": {
+            "name": "West-Eastern Divan",
+            "description": "musical interpretation of Goethe's collection",
+            "content1": "",
+            "content2": "West-Eastern Divan is a collection of poems by Johann Wolfgang von Goethe inspired by the poetry of the Persian poet Hafiz. This work inspired the musicians of the ensemble to initiate the project of the same name and to interpret Goethe's Divan musically. The program of the 'West-Eastern Divans' includes works of Persian, Azerbaijani traditional music and pieces by German composers of the 16th and 17th centuries. Centuries like Michael Praetorius, Heinrich Schütz and Johann Walter.",
+            "poem": {
+                "1": "What is hard to cover? Fire!",
+                "2": "Flame, the monster, will betray",
+                "3": "By night its presence, smoke by day.",
+                "4": "Hard to hide is love's desire;",
+                "5": "However hushed and close it lies,",
+                "6": "Love will leap forth from the eyes.",
+                "7": "Hardest is a song to hide;",
+                "8": "Under bushel 'twill not bide;",
+                "9": "Did the poet sing it new,",
+                "10": "It has pierced him through and through;",
+                "11": "If pranked with pen, his eye approve it,",
+                "12": "He would have the whole world love it,",
+                "13": "Aloud he reads it joyously",
+                "14": "To all - to plague or edify"
+            }
+        },
+        "theSilkRoad": {
+            "name": "The Silk Road",
+            "description": "",
+            "content1": "The Great Silk Road played an important role in the development of economic and cultural relations between the people of Europe and Asia. , The caravan route was used for example to transport innovations such as silk, gunpowder and musical instruments. ",
+            "content2": "Caravans, travelling through China, Mongolia, Central Asia and Azerbaijan reached Europe along the coasts of the Mediterranean and the Black Sea. This is how cultural exchange came about. This fascinating journey is musically reflected in the programme with music from Venice, Constantinople, Shemakha,  and Tabriz."
+        },
+        "eastSideStory": {
+            "name": "East Side Story",
+            "description": "the Elizabethan age in the Ottoman Empire",
+            "content1": "Despite a ban on trade under threat of excommunication, English merchants maintained good economic relations with the Ottoman Empire. As a result of Her Majesty's exclusion from the Church, Elizabeth I sought relations with Sultan Murad III and the Ottoman Empire to counter Catholic Europe.  In a letter, Murad III wrote that Islam and Protestantism had 'much more in common than with Roman Catholicism, since they both reject idolatry'",
+            "content2": "England sent metal melted down from the dismantled roofs and bells of Catholic churches to Istanbul and received gold in return, of almost comparable weight. This alliance was reflected in the English cultural and musical scene. Among others, in the works of William Shakespeare and Christopher Marlowe. This close relationship is musically accompanied in the East Side Story programme with the composers such as John Dowland, Anthony Holbonre, Ali Ufki and Ottoman traditional music."
+        },
+        "theSevenColours": {
+            "name": "The Seven Colours",
+            "description": "",
+            "content1": "The phrases and pauses of a Mugam melody reproduce the unpredictable rhythm of living human speech. This melody would resemble a Gregorian chant if it did not differ from it in its emotional warmth and ornamentation.",
+            "content2": "There are seven main mugams of Azerbaijani music, which differ from each other in their originality and musical character. And each of these mugams has its own spectrum of colours. Like an oriental carpet... The programme features music of the Spanish Renaissance and the seven Azerbaijani mugams."
+        },
+        "theBlackGarden": {
+            "name": "Tha Black Garden",
+            "description": "",
+            "content1": "COMING SOON"
+        }
+    },
+    "media": {
+        "title1": "West-Eastern Divan",
+        "title2": "Folks song Sari Gelin"
+    },
+    "contacsUs": {
+        "title": "",
+        "firstName": "",
+        "lastName": "",
+        "email": "",
+        "subject": "",
+        "submit": ""
+    }
+}

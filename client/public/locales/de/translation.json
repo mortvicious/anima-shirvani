@@ -1,0 +1,124 @@
+{
+    "nav": {
+        "home": "Home",
+        "ensemble": "Ensemble",
+        "projects": "Projecte",
+        "media": "Medien",
+        "concerts": "Konzerte",
+        "contacts":  "Kontakt"
+    },
+    "home": {
+        "title": "Anima Shirvani",
+        "quote": "Wer sich selbst und andere kennt, wird auch hier erkennen: Orient und Okzident sind nicht mehr zu trennen."
+    },
+    "ensemble": {
+        "turalIsmayilov" : {
+            "description" : {
+                "p1" : "Aus Aserbaidschan stammender Musiker erhielt seinen ersten Musikunterricht mit 6 Jahren, zunächst auf der Geige. Nach seinem Abschluss im Fach Posaune in seiner Heimatstadt Baku setzte er das Studium in Münster und später an der Hamburger Hochschule für Musik und Theater bei fort.",
+                "p2" : "Während seiner Studienzeit war er Mitglied des Philharmonischen Orchesters Baku und der Hamburger Symphoniker. Seine Leidenschaft für Alte Musik führte ihn nach Bremen, wo er ein Aufbaustudium im Fach Barockposaune und Historische Aufführungspraxis absolvierte.        Als Spezialist für Alte Musik gastiert Tural Ismayilov regelmäßig mit Ensembles wie Weser Renaissance, Capella Cracoviensis, Lautten Compagney bei Festivals Oude Muziek Festival Utrecht, Stockholm Early Music Festival, Bremer Musikfest u. a. Konzertreisen führten ihn in solche Metropolen wie Moskau, Tokio, Krakau, Valencia, Taipeh, Oslo, Amsterdam und Venedig u. a.",
+                "p3" : "Als gefragter Kammermusikpartner wirkte Tural Ismayilov an mehr als 50 CD- und Rundfunkproduktionen mit. Seit 2012 ist Tural Ismayilov Gründer des Ensembles Thelxinoe und seit 2015 ist er festes Mitglied vom Ensemble Capella de la Torre (Preisträger Echo Klassik 2016, 2017, Opus Klassik 2018).",
+                "p4" : ""
+            }
+        },
+        "denizMahirKartal" : {
+            "description" : {
+                "p1" : "Deniz Mahir Kartal wurde 1987 in Istanbul geboren. Von 2005 bis 2011 studierte er türkischen Volkstanz an der Technischen Universität Istanbul.",
+                "p2" : "Neben dem Tanz gilt seine Leidenschaft vor allem der Musik. Mahir spielt Duduk, Kaval und andere traditionelle Instrumente, sowie Saxophon und Gitarre. Er macht seit seinem fünften Lebensjahr Musik und arbeitet an vielen Projekten, die sich den unterschiedlichsten Musikrichtungen verschrieben haben, von anatolischer Musik über Balkan/Ska/Reggae bis hin zur Elektronik. Er spielt in verschiedenen Bands aus der Türkei, Schweden, Deutschland und Tschechien.",
+                "p3" : "Seit 2013 lebt Mahir in Berlin. Er hat viele neue Kontakte in der Berliner Musikszene gewonnen und gibt regelmäßig Konzerte in ganz Europa. Momentan konzentriert er sich vor allem auf sein Soloprojekt KafaNar, bei dem er mit seinen verschiedenen Instrumenten, Gesang und Loops einen hypnotischen tanzbaren Sound erzeugt."
+            }
+        },
+        "pedroAlcacerDoria" : {
+            "description" : {
+                "p1" : "Pedro Alcàcer , geobren 1982 in Mexiko, spielte zunächst in verschiedenen Ensembles von Volksmusik bis Jazz-Rock.",
+                "p2" : "1998 begann er mit seinem Studium der klassischen Gitarre an der „Escuela nacional de Musica“ mit dem Schwerpunkt Vihuela (Renaissancerepertoire) bei Isabel Villei und Antonio Corona und machte dort 2002 seinen Abschluss. Ab Jahr 2006 studierte er in Barcelona bei Xaver Díaz Latorre, und schloss dort  das Srudium im Fach Renaissancelaute am Conservatori de Girona bei Maike Burgdorf ab, wo er den ersten Preis am „7. Premis d'interpretació musical i composició“ gewann. Er nahm Unterricht bei Ariel Abramovich und spielte Konzerte in Spanien und Frankreich als Solist sowie mit der Sopranistin Anna Brull. Er belegte Meisterkurse mit Hopkinson Smith (Barcelona 2006, Leida 2007) Paul O‘dette (Bremen 2008), Lynda Sayce (London 2007), Mike Ferntross (Bremen 2010) sowie mit Marta Almajano, Andrew Lawrence King, Sergi Casteldemunt und Pedro Estevan. 2009-2012 studierte er Laute bei Lee Santana und Joachim Held an der Hochschule für Künste Bremen mit Abschluss in 2012, Es folgte ein Aufbaustudium in Italien bei Evangelina Mascardi.",
+                "p3" : "Als Solist und Kammermusiker arbeitet Pedro Alcàcer mit Gabriel Garrido, Alessandro di Marchi, Riccardo Doni, Horacio Franco, Rinaldo Alessandrini Cristoph Hammer, Federico Ferri, mit Gruppen wie, Ensamble Elyma, Accademia degli Astrusi, Cantar Lontano.",
+                "p4" : "Er hat einen Lehrauftrag für Laute am Conservatorio Frescobaldi di Ferrara."
+            }
+        },
+        "davidBudai" : {
+            "description" : {
+                "p1" : "Dávid Budai studierte Viola da Gamba bei Hille Perl, Marianne Muller, Irene Klein und erlernte Improvisationstechniken von Martin Erhardt, Barnabé Janin und Jean-Yves Haymoz. Sein Forschungsschwerpunkt liegt auf der englischen Gambenliteratur des frühen 17. Jahrhunderts und auf der Entwicklung von Violinensembles während den frühbarocken Zeit. Seine kammermusikalische Arbeit unter anderem mit PRISMA, Ensemble Weser Renaissance bringt ihn in zahlreiche Länder Europas, sowie zum Festivals wie Utrecht Oude Muziek Festival(NL), Trigonale Festival Kärnten(AT), Ambronay Festival (FR).",
+                "p2" : "Infolge der COVID-Pandemie legt er seinen Fokus auf Konzerte im regionalen Umfeld, Musikvermittlung für verschiedene Altersgruppen und solistische oder kleinbesetzte Projekte."
+            }
+        },
+        "domenMarincic" : {
+            "description" : {
+                "p1" : "Domen Marinčič wurde in Slowenien geboren. Viola da Gamba studierte er bei Hartwig Groth in Nürnberg und bei Philippe Pierlot in Trossingen. Ebenso studierte er Cembalo bei Carsten Lohff und absolvierte ein Aufbaustudium in Generalbass bei Alberto Rinaldi. Während des Studiums war er Preisträger mehrerer Wettbewerbe und gewann 1997 den höchsten Preis beim 1. Internationalen Bach-Abel Wettbewerb in Köthen. Er war mehrere Jahre Mitglied des belgischen Ensembles Ricercar Consort und ist Gründungsmitglied des Ensemble Phoenix Munich.",
+                "p2" : "Er tritt bei bekannten Festivals in ganz Europa auf (Brügge, Brüssel, Gent, Namur, Liège, Paris, Saintes, Kopenhagen, Vantaa, Innsbruck, Lausanne, Luzern, St. Gallen, München, Schleswig-Holstein, Valencia, Gijón, Pisa, Prag, Brünn, Bratislava, Varaždin, Brežice, Maribor). Er ist Mitgründer des slowenischen Alte-Musik-Ensembles musica cubicularis und der Harmonia Antiqua Labacensis, eines internationalen Ensembles unter der Leitung von Manfredo Kraemer.",
+                "p3" : "Domen Marinčič wirkte bei zahlreichen CD-Produktionen für internationale Labels mit. Von 2005 bis 2009 unterrichtete er an der Abteilung für Musikwissenschaft der Universität Ljubljana. Für Aufführungen und Notenausgaben rekonstruierte er fehlende Stimmen zahlreicher Werke des 17. und 18. Jahrhunderts.",
+                "p4" : ""
+            }
+        },
+        "sebastianFlaig" : {
+            "description" : {
+                "p1" : "Sebastian Flaig aus Freiburg studierte ethnische Perkussion und Jazzdrumset und Komposition an der Hochschule für Musik in Leipzig. Zur Vertiefung seiner Kenntnisse der orientalischen Perkussion lebte er ein Jahr in Istanbul und lernte bei verschiedenen Meistern, u.a. bei dem Darabuka Virtuosen Misirli Ahmet. ",
+                "p2" : "Die persische Perkussion erlernte er bei Behnam Samani und Majid Khaladj.",
+                "p3" : "Von der orientalischen Musik zum Jazz und experimenteller Musik bis hin zur Alten Musik reicht sein stilistisches Spektrum in verschiedenen Ensembles wie dem Taner Akyol Trio, Maya Youssef, Pain Perdu, KalhorFlaig Duo, Susan Weinert, Ensemble Resonanz, Lauttencompagney Berlin, Musikwerkstatt Köln, Mysteries of Bulgarian voices feat. Lisa Gerard  u.a... 2017 wurde die CD 'Syrian dreams'  von Maya Youssef mit dem Preis der Deutschen Schallplattenkritik ausgezeichnet.",
+                "p4" : "Sebastian spielte als Solist mit dem Staatsorchester Braunschweig, den Hamburger Symphonikern und der Mittelsächsischen Philharmonie und  in verschiedenen Tanz- und Theaterproduktionen u.a an der Komischen Oper. Er war musikalischer Leiter am Stadttheater Freiburg, Theater Erlangen, Bauhaus Dessau....In der Neuen Musik führte er als Solist  Uraufführungen der Komponisten Ali Gorji, Taner Akyol, Volker Staub, Chen Zheng-Wen auf.",
+                "p5" : "Er komponierte die Musik zu Dokumentarfilmen und Theaterstücken und tourte im Libanon, Syrien, Türkei, Bulgarien, Südamerika ..."
+            }
+        }
+    },
+    "concerts": {
+        "dates" : ""
+    },
+    "projects": {
+        "westEasternDivan": {
+            "name": "West-Ostlicher Divan",
+            "description": "musikalische Interpretation Goethes Gedichtsammlung",
+            "content1": "",
+            "content2": "West-östlicher Divan ist eine von der Poesie des Persischen Dichters Hafis inspirierte Gedichtsammlung von Johann Wolfgang von Goethe. Dieses Werk hat die Musiker vom Ensemble angeregt, das gleichnamige Projekt ins Leben zu rufen, und Goethes Divan musikalisch zu interpretieren. Das Programm des „West-östlichen Divans“ umfasst Werke der persischen, aserbaidschanischen traditionellen Musik und Stücke der deutschen Komponisten der 16./17. Jahrhunderte wie Michael Praetorius, Heinrich Schütz und Johann Walter.",
+            "poem": {
+                "1": "Was ist schwer zu verbergen? Das Feuer!",
+                "2": "Denn bei Tage verrät's der Rauch,",
+                "3": "Bei Nacht die Flamme, das Ungeheuer.",
+                "4": "Ferner ist schwer zu verbergen auch",
+                "5": "Die Liebe; noch so stille gehegt,",
+                "6": "Sie doch gar leicht aus den Augen schlägt.",
+                "7": "Man stellt es unter'n Scheffel nicht.",
+                "8": "Am schwersten zu bergen ist ein Gedicht;",
+                "9": "Hat es der Dichter frisch gesungen,",
+                "10": "So ist er ganz davon durchdrungen.",
+                "11": "Hat er es zierlich nett geschrieben,",
+                "12": "Will er, die ganze Welt soll's lieben.",
+                "13": "Er liest es jedem froh und laut,",
+                "14": "Ob es uns quält, ob es erbaut."
+            }
+        },
+        "theSilkRoad": {
+            "name": "Die Seidenstraße",
+            "description": "",
+            "content1": "Die Große Seidenstraße spielte eine wichtige Rolle bei der Entwicklung der wirtschaftlichen und kulturellen Beziehungen zwischen den Völkern Europas und Asiens. So diente diese Karawanenstraße beispielsweise zur Vermittlung solcher Innovationen wie Seide, Schießpulver und auch Musikinstrumenten. ",
+            "content2": " Karawanen, die durch China, die Mongolei, Zentralasien und Aserbaidschan zogen, erreichten Europa entlang der Küsten des Mittelmeers und des Schwarzen Meeres. Somit entstand auch der kulturelle Austausch. Diese spannende Reise wird musikalisch im Programm mit Musik aus Venedig, Konstantinopel, Schemacha,  und Täbriz widerspiegelt."
+        },
+        "eastSideStory": {
+            "name": "East Side Story",
+            "description": "Das Elisabethanische Zeitalter im Osmanischen Reich",
+            "content1": "Trotz eines Handelsverbots unter Androhung einer Exkommunikation pflegten die englischen Händler gute wirtschaftliche Beziehungen zum Osmanischen Reich. Infolge des Kirchenausschlusses ihrer Majestät, suchte Elisabeth I Beziehungen zum Sultan Murad III und dem Osmanischen Reich, um dem katholischen Europa entgegenzuwirken.  In einem Brief schrieb Murad III, der Islam und der Protestantismus hätten 'viel mehr gemeinsames, als zum römischen Katholizismus, da sie beide die Götzenanbetung ablehnen'",
+            "content2": "England schickte Metall, das von den abgebauten Dächern und Glocken katholischer Kirchen eingeschmolzen wurde, nach Istanbul und erhielt im Gegenzug Gold, und zwar von fast vergleichbarem Gewicht. Dieses Bündnis spiegelte sich in der englischen Kultur- und Musikszene wider. Unter anderem in den Werken von William Shakespeare und Christopher Marlowe. Diese enge Beziehung wird im Programm East Side Story mit den Komponisten wie John Dowland, Anthony Holbonre, Ali Ufki musikalisch und osmanischer Traditionsmusik begleitet."
+        },
+        "theSevenColours": {
+            "name": "Die sieben Farben",
+            "description": "",
+            "content1": "Die Phrasen und Pausen einer Mugam-Melodie reproduzieren den unvorhersehbaren Rhythmus der lebendigen menschlichen Sprache. Diese Melodie ähnelt einem gregorianischen Choral, wenn sie sich nicht in ihrer emotionalen Wärme und Ornamentik  von ihr unterscheiden würde.",
+            "content2": "Es existieren sieben Hauptmugams der aserbaidschanischen Musik, die sich durch ihre Originalität und ihren musikalischen Charakter voneinander unterscheiden. Und jeder dieser Mugams hat eigenes Farbenspektrum. Wie ein Orientteppich... Im Programm klingt Musik der Spanischen Renaissance und die sieben aserbaidschanische Mugams."
+        },
+        "theBlackGarden": {
+            "name": "Der Schwarze Garten",
+            "description": "",
+            "content1": "COMING SOON"
+        }
+    },
+    "media": {
+        "title1": "West-Östlicher Divan",
+        "title2": "Volkslied Sari Gelin"
+    },
+    "contacsUs": {
+        "title": "",
+        "firstName": "",
+        "lastName": "",
+        "email": "",
+        "subject": "",
+        "submit": ""
+    }
+}

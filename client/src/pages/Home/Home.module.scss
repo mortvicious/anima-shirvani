@@ -1,0 +1,88 @@
+.Home {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    width: 100%;
+}
+
+
+.Header {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+    width: 100%;
+    justify-content: center;
+    @media (max-width: 768px) {
+        &::before {
+            background-repeat: no-repeat;
+        }
+    }
+    &::before {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        content: '';
+        z-index: -1;
+        background-size: 100%;
+        filter: brightness(30%);
+    }
+    .main-header-content {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-block: auto;
+        justify-content: center;
+        .logo {
+            color: white;
+            font-size: 96px;
+            font-family: 'Cardo';
+            letter-spacing: 6px;
+            text-transform: uppercase;
+            text-align: center;
+            justify-content: center;
+            align-items: center;
+            margin-inline: auto;
+            // width: 100%;
+            @media (max-width: 1001px) {
+                font-size: 80px;
+            }
+            @media (max-width: 456px) {
+                font-size: 60px;
+            }
+            @media (max-width: 355px) {
+                font-size: 40px;
+            }
+        }
+        .quote, .quote-author {
+            font-family: 'EB Garamond', cursive;
+            font-size: 23px;
+            color: lightgray;
+            text-align: center;
+            @media (max-width: 1001px) {
+                font-size: 20px;
+            }
+
+            @media (max-width: 768px) {
+                font-size: 16px;
+            }
+        }
+        .quote-author {
+            margin-top: 1rem;
+            text-align: right;
+        }
+        .quote {
+            @media (max-width: 1001px) {
+                width: 70%;
+            }
+            @media (max-width: 768px) {
+                width: 70%;
+            }
+        }
+    }
+}

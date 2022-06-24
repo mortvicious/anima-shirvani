@@ -1,0 +1,86 @@
+.OverlayMenu {
+    position: fixed;
+    flex-direction: column;
+    top: 0;
+    left: 0;
+    height: 0vh;
+    opacity: 0;
+    width: 100%;
+    background-color: rgba(64,64,64, 0.9);
+    backdrop-filter: blur(10px);
+    z-index: 12;
+    overflow: visible;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    transition: all 0.2s ease-in-out;
+    ul {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        gap: 2rem;
+        margin: 0;
+        padding: 0;
+        // margin-top: 5rem;
+        // margin-block: auto;
+        height: 70vh;
+        width: 100%;
+        
+        li {
+            // color: rgb(170,170,170);
+            list-style: none;
+            font-size: 30px;
+            text-align: center;
+            font-family: 'Zen Kaku Gothic New';
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            // margin-left: -2.5rem;
+            justify-content: center;
+            opacity: 0;
+        }
+    }
+}
+.active {
+    // color: rgb(236, 236, 236) !important;
+}
+
+.language-switcher {
+    text-align: center;
+    display: flex;  
+    gap: 0;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    margin-top: 5rem;
+    .lang-btn {
+        width: 2rem;
+        background-color: rgba(0,0,0, 0);
+        color: rgb(131, 131, 131);
+        font-size: 18px;
+        font-family: 'Raleway';
+        text-align: center;
+        cursor: pointer;
+        &.active {
+            color: rgb(185, 185, 185);
+        }
+        &:hover {
+            color: rgb(255, 255, 255);
+        }
+    }
+
+    span {
+        text-align: center;
+        // margin-bottom: 2px;
+        color: white;
+        font-size: 16px;
+    }
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    overflow: hidden;
+}

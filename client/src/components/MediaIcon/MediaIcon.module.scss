@@ -1,0 +1,8 @@
+.MediaIcon {
+    filter: brightness(50%);
+    cursor: pointer;
+}
+
+.MediaIcon:hover {
+    filter: brightness(150%);
+}

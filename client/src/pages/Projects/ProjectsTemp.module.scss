@@ -1,0 +1,140 @@
+.ProjectsTemp {
+    min-height: 100vh;
+    width: 100%;
+    position: relative;
+    display: none;
+    flex-direction: column;
+    margin-top: 3rem;
+    @media (max-width: 768px) {
+        display: flex;
+    }
+}
+
+.Tabs {
+    display: flex;
+    gap: 10px;
+    width: 95%;
+    margin-inline: auto;
+    justify-content: space-between;
+    margin-top: 2rem;
+
+    .Tab {
+        padding:5px;
+        font-size: 10px;
+        color: rgba(170,170,170);
+        background-color: rgba(63,63,63, 0.8);
+        backdrop-filter: blur(10px);
+        border-radius: 10px;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        font-family: 'Zen Kaku Gothic New';
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        font-weight: 600;
+        @media (max-width: 400px) {
+            font-size: 8px;
+            padding: 5px;
+        }
+        @media (max-width: 356px) {
+            font-size: 6px;
+        }
+        @media (max-width: 768px) {
+            padding-block: 10px;
+            padding-inline: 7px;
+        }
+    }
+}
+
+.title {
+    font-size: 28px;
+    text-align: center;
+    font-family: 'Zen Kaku Gothic New';
+    letter-spacing: 2px;
+    font-weight: 800;
+    color: rgba(170,170,170);
+    margin-top: 1rem;
+    position: relative;
+    &::before {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        height: 2px;
+        width: 40%;
+        content: '';
+    }
+}
+
+.description {
+    width: 90%;
+    margin-inline: auto;
+    color: rgba(170,170,170);
+    font-family: 'Cardo';
+    font-size: 17px;
+    line-height: 2rem;
+    justify-content: center;
+    text-align: center; 
+    @media (max-width: 355px) {
+        font-size: 15px;
+        line-height: 1.4rem;
+    } 
+}
+
+
+.active {
+    // color: rgb(235, 166, 166);
+    background-color: rgba(170, 170, 170) !important;
+    color: rgb(63,63,63) !important;
+    transition: all .2s ease-in-out;
+}
+
+.poem {
+    position: relative;
+    margin-left: auto;
+    width: 90%;
+    padding: 1rem;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    &::before {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        background-color: white;
+        height: 80%;
+        width: 1px;
+        content: '';
+    }
+    &::after {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        background-color: white;
+        width: 30%;
+        height: 1px;
+        content: '';
+    }
+}
+
+.separated {
+    margin: 0;
+    padding: 0;
+    line-height: 1.5rem;
+    text-align: right;
+    font-family: 'EB Garamond', cursive;
+    font-size: 16px;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    opacity: 0;
+    transition: all .25s ease-in-out;
+    &.active-tab-info {
+        opacity: 1;
+        transition: all .25s ease-in-out;
+    }
+}

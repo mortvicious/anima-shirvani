@@ -1,0 +1,65 @@
+.Media {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    width: 100%;
+    min-height: 100vh;
+    // margin-top: 15rem;
+    // margin-top: 5rem;
+
+}
+
+.media-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    // gap:1rem;
+    text-transform: uppercase;
+    min-height: 100vh;
+    // margin-top: auto;
+    justify-content: center;
+    // margin-top: 10rem;
+    @media (max-width: 768px) {
+        margin-top: 1rem;
+        min-height: 31vh
+    }
+    span {
+        color: rgb(204, 204, 204);
+        font-size: 20px;
+        font-family: 'Zen Kaku Gothic New';
+        letter-spacing: 2px;
+        font-weight: 600;
+        // margin-right: auto;
+        text-align: center;
+        width: 20rem;
+    }
+}
+
+
+.wrapper-embedded-yt {
+    // min-width: 40%;
+    // height: 320px;
+}
+.embedded-yt {
+    width: 80vw;
+    height: 70vh;
+    // padding: 1rem;
+    // box-sizing: border-box;
+    border: 3px solid rgba(63, 63, 63, 1);
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-top: 3rem;
+    // box-shadow: 0 0 25px 1px black;
+    @media (max-width: 768px) {
+        margin-top: 1rem;
+        height: 30vh;
+        width: 45vw;
+    }
+    @media (max-width: 546px) {
+        width: 80vw;
+    }
+    @media (max-width: 655px) {
+        width: 70vw;
+    }
+}
