@@ -3,8 +3,11 @@
     "version": "0.0.1",
     "private": true,
     "scripts": {
-        "start": "node ./server/bin/www",
-        "devstart": "nodemon /server/bin/www",
+        "_start": "node ./server/bin/www",
+        "_devstart": "nodemon /server/bin/www",
+        "_serverstart": "DEBUG=express-locallibrary-tutorial:* npm run devstart",
+        "start": "node ./server/app.js",
+        "devstart": "nodemon /server/app.js",
         "serverstart": "DEBUG=express-locallibrary-tutorial:* npm run devstart",
         "heroku-postbuild": "cd client && npm install client && npm run build"
       },
