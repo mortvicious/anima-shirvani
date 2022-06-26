@@ -1,22 +1,40 @@
-const express = require('express')
+var express = require('express');
+var path = require('path');
+var cookieParser = require('cookie-parser');
+var logger = require('morgan');
 
-const app = express()
+//For test
+const generatePassword = require('password-generator');
 
-app.use(express.json())
+var indexRouter = require('./routes/index');
+var usersRouter = require('./routes/users');
 
-const start = async () => {
-    try {
-        app.listen(5000, () => {
-            console.log(`Server started on port: 5000`)
-        })
-    } catch (e) {
-        console.log(e)
-    }
-}
+var app = express();
+
+app.use(logger('dev'));
+app.use(express.json());
+app.use(express.urlencoded({ extended: false }));
+app.use(cookieParser());
+
+//Serve react static files
+app.use(express.static(path.join(__dirname, '../client/build')));
+
+app.use('/', indexRouter);
+app.use('/users', usersRouter);
 
 
-start()
-
-
-
-
+app.get('/api/passwords', (req, res) => {
+    const count = 5;
+  
+    // Generate some passwords
+    const passwords = Array.from(Array(count).keys()).map(i =>
+      generatePassword(12, false)
+    )
+  
+    // Return them as json
+    res.json(passwords);
+  
+    console.log(`Sent ${count} passwords`);
+  });
+ 
+module.exports = app;
