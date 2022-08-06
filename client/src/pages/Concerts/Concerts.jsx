@@ -17,7 +17,7 @@ const Main = () => {
       },
       location: {
         city: 'Germany, Hamburg',
-        arena: 'Hamburger Arena',
+        arena: 'Hamburg Arena',
       }
     },
     {    
@@ -48,20 +48,20 @@ const Main = () => {
     },
     {    
       id: 3,
-      name: 'Pobida Armii',
+      name: 'Chopin Op 69',
       date: {
         week: 'Tue',
         month: 'Feb 23',
         time: '09:30'
       },
       location: {
-        city: 'Ukraine, Kiyev',
-        arena: 'Stublizka Gore',
+        city: 'Ukraine, Kyiv',
+        arena: 'Ukraine Palace',
       }
     },
     {    
       id: 4,
-      name: 'Delightful Greece',
+      name: 'Delightful Greece by Roberto Cavalli',
       date: {
         week: 'Fri',
         month: 'Jan 18',
@@ -69,7 +69,7 @@ const Main = () => {
       },
       location: {
         city: 'USA, Washington',
-        arena: 'Super Place For Music',
+        arena: 'Washington Music Hall',
       }
     },
   ]
